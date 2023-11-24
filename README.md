@@ -2,7 +2,7 @@
 
 The SpyMe is a web application that utilizes a webcam to detect objects, focusing specifically on identifying people through a machine learning model. It triggers notifications when a person is detected in the video feed.
 
-![Project Image](/smart_webcam/Project.png)
+![Project Image](/Project.png)
 
 ## Features
 
