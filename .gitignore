@@ -1,0 +1,39 @@
+# Dependency directories
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build output
+/build
+/dist
+
+# macOS specific files
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+.DS_Store?
+ehthumbs.db
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files
+*.swp
+*~
